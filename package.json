@@ -1,0 +1,29 @@
+{
+  "name": "autowired",
+  "version": "0.1.0",
+  "description": "Simple Autowire Koa router for building API servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alinz/autowired.git"
+  },
+  "keywords": [
+    "koa",
+    "autowire",
+    "controller"
+  ],
+  "author": "Ali Najafizadeh",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/alinz/autowired/issues"
+  },
+  "homepage": "https://github.com/alinz/autowired#readme",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-router": "^5.1.1",
+    "lodash": "^3.9.3"
+  }
+}
